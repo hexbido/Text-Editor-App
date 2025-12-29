@@ -1,0 +1,27 @@
+# VS Code Local History
+.history/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# VS Code Settings
+.vscode/
+
+# Output Files
+*.csv
+*.xlsx
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
